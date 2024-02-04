@@ -1,6 +1,6 @@
-### Hi there 🙋‍♀️
-
 <img src="https://media.giphy.com/media/GQty4dYXeVkOeMzqVx/giphy.gif?cid=ecf05e475g2z8q8bjkmkmgk8w7gsn48y11spe6eeu496jl7a&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"  width="30%"/>
+
+### Hi there 🙋‍♀️
 
 - 🔭 I’m currently a Master's Student in Advanced Computer Science at the University of Leicester.
 - 🌱 DevOps at [TuneAI](https://tunehq.ai/)
