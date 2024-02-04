@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 🙋‍♀️
+
+<img src="https://media.giphy.com/media/GQty4dYXeVkOeMzqVx/giphy.gif?cid=ecf05e475g2z8q8bjkmkmgk8w7gsn48y11spe6eeu496jl7a&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"  width="30%"/>
+
+- 🔭 I’m currently a Master's Student in Advanced Computer Science at the University of Leicester.
+- 🌱 DevOps at [TuneAI](https://tunehq.ai/)
+- 📫 Here is my [Portfolio](https://linktr.ee/vinujakhatode)
+- 👯 I’m looking to collaborate on topics related to DevOps, Cloud Native, and Platform Engineering.
+
+
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" width="50px" />Let's Connect:
 <p align="center">
@@ -12,6 +21,9 @@
 
 <!--
 "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif"
+https://media.giphy.com/media/GQty4dYXeVkOeMzqVx/giphy.gif?cid=ecf05e475g2z8q8bjkmkmgk8w7gsn48y11spe6eeu496jl7a&ep=v1_gifs_search&rid=giphy.gif&ct=g
+https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b761140jrsvleh7kmg1zlrdjmrovqrzqzby29i78u31ha&ep=v1_gifs_search&rid=giphy.gif&ct=g
+https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b761140jrsvleh7kmg1zlrdjmrovqrzqzby29i78u31ha&ep=v1_gifs_search&rid=giphy.gif&ct=g
 **Vinujaaa/Vinujaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
