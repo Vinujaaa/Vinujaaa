@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently a Master's Student in Advanced Computer Science at the University of Leicester.
 - 🌱 DevOps at [TuneAI](https://tunehq.ai/)
-- 📫 Here is my [Portfolio](https://linktr.ee/vinujakhatode)
-- 👯 I’m looking to collaborate on topics related to DevOps, Cloud Native, and Platform Engineering.
+- 📫 Here is my [Portfolio](https://vinuja.tech)
+- 👯 I’m looking to collaborate on topics related to DevOps, Infrastructure, Cloud Native, and Platform Engineering.
 
 
 
