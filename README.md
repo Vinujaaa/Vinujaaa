@@ -2,10 +2,10 @@
 
 <img src="https://media.giphy.com/media/GQty4dYXeVkOeMzqVx/giphy.gif?cid=ecf05e475g2z8q8bjkmkmgk8w7gsn48y11spe6eeu496jl7a&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"  width="30%"/>
 
-- 🔭 I’m currently a Master's Student in Advanced Computer Science at the University of Leicester.
+- 🔭 Master's in Advanced Computer Science at the University of Leicester (Completed)
 - 🌱 DevOps at [TuneAI](https://tunehq.ai/)
 - 📫 Here is my [Portfolio](https://vinuja.tech)
-- 👯 I’m looking to collaborate on topics related to DevOps, Infrastructure, Cloud Native, and Platform Engineering.
+- 👯 I’m open to full-time roles in DevOps, Infrastructure, and Platform Engineering.
 
 
 
