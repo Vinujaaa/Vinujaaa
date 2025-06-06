@@ -4,7 +4,7 @@
 
 - 🌱 DevOps at [TuneAI](https://tunehq.ai/)
 - 📫 Here is my [Portfolio](https://vinuja.tech)
-- 🔭 Recently completed Master's in Advanced Computer Science at the University of Leicester 
+- 🔭 Recently completed Master's in Advanced Computer Science at the University of Leicester.
 - 👯 I’m open to full-time roles in DevOps, Infrastructure, and Platform Engineering.
 
 
